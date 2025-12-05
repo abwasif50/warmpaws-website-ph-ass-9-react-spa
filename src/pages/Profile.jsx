@@ -86,6 +86,8 @@ export default function Profile() {
               disabled={saving}
             />
             <label className="block text-sm mb-1">Photo URL</label>
+
+
             <input
               type="url"
               value={photoURL}
@@ -98,6 +100,9 @@ export default function Profile() {
               <button type="submit" className="btn btn-primary" disabled={saving}>
                 {saving ? "Saving..." : "Save"}
               </button>
+
+
+              
               <button type="button" onClick={() => setEditing(false)} className="btn btn-ghost">
                 Cancel
               </button>
