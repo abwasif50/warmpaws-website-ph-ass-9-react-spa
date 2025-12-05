@@ -1,0 +1,74 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Winter Coat Fitting for Dogs",
+    "providerName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Custom coat fitting and warm outfit options to keep your dog comfortable in the cold.",
+    "image": "https://i.ibb.co.com/MYF60dC/dog-jackets-that-will-keep-your-furry-friend-toasty.webp",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Winter Grooming & Paw Treatment",
+    "providerName": "CozyPets Grooming",
+    "providerEmail": "hello@cozypets.com",
+    "price": 30,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Professional grooming with moisturizing paw balm and winter-safe shampoo.",
+    "image": "https://i.ibb.co.com/5gyc15CL/unrecognizable-woman-holding-cream-moisturizing-260nw-2473467377.webp",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Heated Pet Bed Setup",
+    "providerName": "WarmPaws Home",
+    "providerEmail": "contact@warmpaws.com",
+    "price": 40,
+    "rating": 4.7,
+    "slotsAvailable": 5,
+    "description": "Install a heated bed in your home for cozy sleep.",
+    "image": "https://i.ibb.co.com/wZ6bKbMf/relaxed-huskies-sleepy-mood-cuddle-260nw-2679814911.webp",
+    "category": "Accessories"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Winter Pet Diet Consultation",
+    "providerName": "HealthyPets Nutrition",
+    "providerEmail": "info@healthypets.com",
+    "price": 20,
+    "rating": 4.9,
+    "slotsAvailable": 2,
+    "description": "Consultation to keep your pets healthy and energetic in winter.",
+    "image": "https://i.ibb.co.com/99zpSBb6/stock-photo-close-up-photo-of-lovely-cute-white-pet-or-dog-wrapped-in-blankets-to-keep-warm-from-win.jpg",
+    "category": "Nutrition"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Winter Paw Care Kit",
+    "providerName": "CozyPaws Store",
+    "providerEmail": "store@cozypaws.com",
+    "price": 15,
+    "rating": 4.6,
+    "slotsAvailable": 10,
+    "description": "Includes paw balm, booties, and protective ointments.",
+    "image": "https://i.ibb.co.com/RGZctM8w/1-5.jpg",
+    "category": "Accessories"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Holiday Pet Photoshoot",
+    "providerName": "FurryClick Studio",
+    "providerEmail": "hello@furryclick.com",
+    "price": 50,
+    "rating": 5.0,
+    "slotsAvailable": 3,
+    "description": "Capture your pet in cozy winter outfits with professional photography.",
+    "image": "https://i.ibb.co.com/5qSSYcJ/istockphoto-1344954298-1024x1024.jpg",
+    "category": "Photography"
+  }
+]
