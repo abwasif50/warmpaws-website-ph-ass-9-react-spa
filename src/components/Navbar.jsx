@@ -134,7 +134,7 @@ export default function Navbar() {
               <li>
                 <Link to="/login">Login</Link>
               </li>
-              <li>
+              <li className="bg-teal-800">
                 <Link to="/signup">Register</Link>
               </li>
             </>

@@ -62,6 +62,8 @@ export default function Signup() {
     }
   };
 
+
+
   const handleGoogle = async () => {
     try {
       await signInWithGoogle();
@@ -124,6 +126,9 @@ export default function Signup() {
         </div>
 
         <ul className="text-sm text-gray-600 mb-2">
+
+
+          
           <li>• At least 6 characters</li>
           <li>• Must include an uppercase letter</li>
           <li>• Must include a lowercase letter</li>
