@@ -6,6 +6,8 @@ import { useAuth } from "../hooks/useAuth";
 import { toast, Toaster } from "react-hot-toast";
 
 function useQuery() {
+
+  
   return new URLSearchParams(useLocation().search);
 }
 
@@ -61,6 +63,8 @@ export default function ForgotPassword() {
       <p className="text-gray-600 mb-6">
         Enter the email associated with your account. We'll send a reset link.
       </p>
+
+
 
       <form onSubmit={handleReset} className="flex flex-col gap-3">
         <input
